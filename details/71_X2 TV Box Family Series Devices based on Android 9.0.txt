@@ -1,0 +1,866 @@
+[{'category_id': '1',
+  'created_at': '2022-10-14 11:10:24',
+  'description': '1. Lots of video codec fixes\r\n'
+                 '2. Removed video codec fixes setting\r\n'
+                 '3. HDMI CEC improvements\r\n'
+                 '4. Fixed system crash when pressing Menu frequently\r\n'
+                 '5. Fixed DTS-HD audio passthrough for some audio '
+                 'receivers\r\n'
+                 '6. Fixed issue with no sound after high resolution PCM audio '
+                 'playback\r\n'
+                 '7. Removed HDR to SDR and SDR to HDR settings\r\n'
+                 '8. Added HDR policy setting\r\n'
+                 '9. Added new option: enhanced HDR to SDR (only for AM6+)\r\n'
+                 '10. Fixed problem when automatic frame rate function not '
+                 'available after boot\r\n'
+                 '11. Fixes of automatic frame rate function for Dolby '
+                 'Vision\r\n'
+                 '12. Improved video size detection for system automatic frame '
+                 'rate function\r\n'
+                 '13. Reformed automatic frame rate settings\r\n'
+                 '14. Added new option for changing resolution by AFR_CALC '
+                 'without enabling main setting\r\n'
+                 '15. Fixed button manager issue for some remote '
+                 'controllers\r\n'
+                 '16. Fixed playback pause when using OK button on Bluetooth '
+                 'remote controller\r\n'
+                 '17. Fixed no sound in GeForce Now application for Bluetooth '
+                 'devices (need re-pair)\r\n'
+                 '18. Added key layout for G20 BTS PRO\r\n'
+                 '19. Added USearch application\r\n'
+                 '20. Added UPlayer application with Dolby Vision support\r\n'
+                 '21. Changed Google application to version 3.7.0\r\n'
+                 '22. New CoreELEC build\r\n'
+                 '23. Magisk updated\r\n'
+                 '24. Changed LED indication:\r\n'
+                 '     - active mode: yellow for AM6, magenta for X2/X3 '
+                 '(flashing when remote control buttons are pressed)\r\n'
+                 '     - sleep mode: green for AM6, blue for X2/X3\r\n'
+                 '     - hibernation: red\r\n'
+                 '25. Many other changes for system stability',
+  'file': None,
+  'file_size': '615 MB',
+  'id': 264,
+  'link': 'https://mega.nz/folder/DpUTFKIa#0mC0ndKsZm9KdYgkr_KcNA',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 9 firmware V0.5.4 for X2 Family',
+  'updated_at': '2022-10-14 11:10:24'},
+ {'category_id': '1',
+  'created_at': '2022-08-17 08:38:55',
+  'description': '1. Fixed Magisk update process\r\n'
+                 '2. Fixed option of disabling auto power-on for new '
+                 'devices\r\n'
+                 '3. Few system bug fixes',
+  'file': None,
+  'file_size': '615 MB',
+  'id': 262,
+  'link': 'https://mega.nz/folder/WhUnBAza#oBW0VAyDf3xgEcL1a-FNQA',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 9 firmware V0.4.2 for X2 Family',
+  'updated_at': '2022-08-17 08:38:55'},
+ {'category_id': '1',
+  'created_at': '2021-06-02 12:54:16',
+  'description': 'Changelog:\r\n'
+                 '\r\n'
+                 '1. Updated Magisk\r\n'
+                 '2. Improved video codec fixes (playback settings)\r\n'
+                 '3. Added USB_SOUND button for fast switching usb sound '
+                 'setting\r\n'
+                 '4. Enabled by default false double taps fix (input devices '
+                 'settings)\r\n'
+                 '5. Hardware monitor: renamed HDR mode to HDMI color mode. '
+                 'Now showing HDR mode and color mode\r\n'
+                 '6. Fixed bug with "Upgrading" message after reboot\r\n'
+                 '7. Other system stability improvements',
+  'file': None,
+  'file_size': '641.5 Mb',
+  'id': 237,
+  'link': 'https://mega.nz/folder/Hp1WkKBB#15YAZ6tCGgkS1lIPNoe_4Q',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'Android 9 firmware V0.4.1 for X2 Family',
+  'updated_at': '2021-06-02 12:54:16'},
+ {'category_id': '1',
+  'created_at': '2021-01-17 07:55:10',
+  'description': 'Changelog 4.01.2021:\r\n'
+                 '\r\n'
+                 '1. Fixed wake on LAN function\r\n'
+                 '2. Fixed CoreELEC Ethernet connection problem\r\n'
+                 '3. Fixed false double tap for some unstable remote '
+                 'controllers\r\n'
+                 '4. Fixed return of hdmi sound parameters after listening to '
+                 'multi-channel PCM audio\r\n'
+                 '5. Fixed long freezes of GeForce NOW stream\r\n'
+                 '6. Added ability reduce display time of mouse pointer\r\n'
+                 '7. Added right mouse button setting\r\n'
+                 '8. Moved F2-5 key events to UG1-4 for Remote Control Buttons '
+                 'application. Buttons remap will be required\r\n'
+                 '9. Removed calling emoji keyboard by alt buttons\r\n'
+                 '10. Fixed root state in status bar with Magisk option\r\n'
+                 '11. Added Remote Control Buttons application to settings\r\n'
+                 '12. Changed battery level\r\n'
+                 '13. Other system changes',
+  'file': None,
+  'file_size': '140 mb',
+  'id': 234,
+  'link': 'https://mega.nz/file/KssEASRL#vS94LgdgSQ7_zLtD_cwMU2YOdLvsYg5jD8H2vsri_pM',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'Dualboot Increment OTA File V0.3.9.1 for X2 Family',
+  'updated_at': '2021-01-17 07:55:10'},
+ {'category_id': '1',
+  'created_at': '2021-01-17 07:53:39',
+  'description': 'Changelog 4.01.2021:\r\n'
+                 '\r\n'
+                 '1. Fixed wake on LAN function\r\n'
+                 '2. Fixed CoreELEC Ethernet connection problem\r\n'
+                 '3. Fixed false double tap for some unstable remote '
+                 'controllers\r\n'
+                 '4. Fixed return of hdmi sound parameters after listening to '
+                 'multi-channel PCM audio\r\n'
+                 '5. Fixed long freezes of GeForce NOW stream\r\n'
+                 '6. Added ability reduce display time of mouse pointer\r\n'
+                 '7. Added right mouse button setting\r\n'
+                 '8. Moved F2-5 key events to UG1-4 for Remote Control Buttons '
+                 'application. Buttons remap will be required\r\n'
+                 '9. Removed calling emoji keyboard by alt buttons\r\n'
+                 '10. Fixed root state in status bar with Magisk option\r\n'
+                 '11. Added Remote Control Buttons application to settings\r\n'
+                 '12. Changed battery level\r\n'
+                 '13. Other system changes',
+  'file': None,
+  'file_size': '112 mb',
+  'id': 233,
+  'link': 'https://mega.nz/file/vx0SBaKQ#JA1EwnVH3Vjoh22H5InWQp6bCZ0gbp7v1NYuiXbRjCw',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'Increment OTA File V0.3.9.1 for X2 Family',
+  'updated_at': '2021-01-17 07:53:39'},
+ {'category_id': '1',
+  'created_at': '2021-01-17 07:22:12',
+  'description': 'Changelog:\r\n'
+                 '\r\n'
+                 '1. Fixed wake on LAN function\r\n'
+                 '2. Fixed CoreELEC Ethernet connection problem\r\n'
+                 '3. Fixed false double tap for some unstable remote '
+                 'controllers\r\n'
+                 '4. Fixed return of hdmi sound parameters after listening to '
+                 'multi-channel PCM audio\r\n'
+                 '5. Fixed long freezes of GeForce NOW stream\r\n'
+                 '6. Added ability reduce display time of mouse pointer\r\n'
+                 '7. Added right mouse button setting\r\n'
+                 '8. Moved F2-5 key events to UG1-4 for Remote Control Buttons '
+                 'application. Buttons remap will be required\r\n'
+                 '9. Removed calling emoji keyboard by alt buttons\r\n'
+                 '10. Fixed root state in status bar with Magisk option\r\n'
+                 '11. Added Remote Control Buttons application to settings\r\n'
+                 '12. Changed battery level\r\n'
+                 '13. Other system changes',
+  'file': None,
+  'file_size': '411 Mb',
+  'id': 229,
+  'link': 'https://mega.nz/folder/a9tETaDb#w4pSqq2oCP11j4tNRkLZmg',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'Android 9 firmware V0.3.9.1 for X2 Family',
+  'updated_at': '2021-01-17 07:22:12'},
+ {'category_id': '1',
+  'created_at': '2020-09-03 15:01:52',
+  'description': 'Changelog 3.09.2020\r\n'
+                 '\r\n'
+                 '1. Added setting to enable pass-through sound for hardware '
+                 'audio decoder\r\n'
+                 '2. Added new keycode AFR_CALC for manual using of automatic '
+                 'frame rate function (for Media Codec only)\r\n'
+                 '3. Added setting of choice applications for which automatic '
+                 'frame rate function will work\r\n'
+                 '4.  Added the ability to use the Gallery app as a video '
+                 'player for all video formats\r\n'
+                 '5. Added ability to ignore video for idle timer\r\n'
+                 '6. Added indication of work for idle timer\r\n'
+                 '7. Added Vulkan support\r\n'
+                 '8. Changed color of signal icons on QS panel\r\n'
+                 '9. Fixed notification icons color\r\n'
+                 '10. Changed theme of settings search window\r\n'
+                 '11. Changed background for last power menu item\r\n'
+                 '12. Added dark icons of Hardware monitor for light '
+                 'applications\r\n'
+                 '13. Fixed screen rotation by 180 degrees when using "middle '
+                 'portrait" mode',
+  'file': None,
+  'file_size': '568 Mb',
+  'id': 226,
+  'link': 'https://mega.nz/folder/DkdxzajL#u6tbIhtJ6R-qbPTe7Yiwow',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'Android 9 firmware V0.3.7 for X2 Family + Full OTA',
+  'updated_at': '2020-09-03 15:01:52'},
+ {'category_id': '1',
+  'created_at': '2020-07-25 07:00:39',
+  'description': '1. Fixed MX Player HW audio/video freezes\r\n'
+                 '  2. Added option of more accurate FPS calculation for Media '
+                 'Codec for system automatic frame rate function\r\n'
+                 '  3. Changed background to more lighter for notification '
+                 'panel\r\n'
+                 '  4. Changed theme of choose application dialog',
+  'file': None,
+  'file_size': '568 Mb',
+  'id': 223,
+  'link': 'https://mega.nz/folder/m4kVyDqK#AsQ2bf3XjYx3ULjer-_T5w',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'Android 9 firmware V0.3.6 for X2 Family + Full OTA',
+  'updated_at': '2020-07-25 07:00:39'},
+ {'category_id': '1',
+  'created_at': '2020-06-14 10:59:51',
+  'description': '1. Fixed work of multichannel high resolution PCM audio\r\n'
+                 '2. Added saving display mode after turning off/on the TV '
+                 'with AV receiver\r\n'
+                 '3. Now default display mode for applications equals '
+                 'resolution in settings\r\n'
+                 '4. Now Lock UI size function worked for all display modes\r\n'
+                 '5. Applications will not be redrawn if enabled Lock UI size '
+                 'function\r\n'
+                 '6. Fixed screen rotation for non FullHD interface\r\n'
+                 '7. Some wallpapers are copied to user folder\r\n'
+                 '8. Added Fake Wi-Fi function\r\n'
+                 '9. Fixed some crashes of application TvSettings\r\n'
+                 '10. Added horizontal recent apps window as option\r\n'
+                 '11. Fixed not worked TV volume control by CEC in some '
+                 'cases\r\n'
+                 '12. Fixed h265 playback crash\r\n'
+                 '13. Fixed interlaced video stream jitter bug\r\n'
+                 '14. Fixed display freezes and becomes slow/lags while '
+                 'selecting PIP mode options in VLC app\r\n'
+                 '15. Fixed freezes when playing 8k video (X3)\r\n'
+                 '16. Ugoos remote changes:\r\n'
+                 '  - added quick connection menu\r\n'
+                 '  - added joystick menu\r\n'
+                 '  - fixed work with third-party keyboards\r\n'
+                 '  - added multi-touch to the touch screen\r\n'
+                 '  - added button on-off vibration\r\n'
+                 '  - added button power off TV box\r\n'
+                 '  - other changes\r\n'
+                 '\r\n'
+                 'Dualboot build with CoreELEC\r\n'
+                 '  1. Increase CoreELEC partition size to 3GB\r\n'
+                 '  2. Replaced CoreELEC night build to stable 9.2.2',
+  'file': None,
+  'file_size': '563 mb',
+  'id': 220,
+  'link': 'https://mega.nz/folder/r81mhKaC#Qb-oEOQfyqy-CTTHEWspJw',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'Android 9 firmware V0.3.3 for X2 Family + Full OTA',
+  'updated_at': '2020-06-14 10:59:51'},
+ {'category_id': '1',
+  'created_at': '2020-05-08 08:20:35',
+  'description': '1. Fixed multichannel PCM audio problem. Added automatic '
+                 'detection\r\n'
+                 '2. Fixed SPDIF work for 192 kHz 32 bit audio (AM6, X2)\r\n'
+                 '3. Added high resolution audio support in user applications '
+                 '(sample rates higher 48 kHz)\r\n'
+                 '4. Added PCM audio settings\r\n'
+                 '5. Added SPDIF passthrough support when TV connected to '
+                 'AV\r\n'
+                 '6. Fixed crash when exiting hibernation mode\r\n'
+                 '7. Fixed returning to the same mode when use system AFR '
+                 'function\r\n'
+                 '8. Added restoring last active display mode after HDMI '
+                 'hotplug event if possible\r\n'
+                 '9. Added option for power on via Bluetooth (Device '
+                 'Preferences -> Power)\r\n'
+                 '10. Removed CEC shutdown command when device reboot\r\n'
+                 '11. Added option for power off related devices when going to '
+                 'sleep (Device Preferences -> Display -> HDMI CEC)\r\n'
+                 '12. Changed some translations in TvSettings\r\n'
+                 '13. Made TvSettings window translucent\r\n'
+                 '14. Added top margin for Accessory window in TvSettings\r\n'
+                 '15. Cifs, Nfs clients. Disallow enable client if not filled '
+                 'all fields\r\n'
+                 '16. Changed default wallpaper\r\n'
+                 '17. Added few wallpapers as preinstalled\r\n'
+                 '18. Changed Wireless assistant settings, disabled fireasy by '
+                 'default\r\n'
+                 '19. Added Ugoos remote server\r\n'
+                 '20. Video freeze fixed for mpeg-4 videos.',
+  'file': None,
+  'file_size': '468 Mb',
+  'id': 217,
+  'link': 'https://mega.nz/folder/Co1RzCaZ#AWywVf0wej8PL-a3tOXbBA',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'Android 9 firmware V0.3.2 for X2 Family + Full OTA',
+  'updated_at': '2020-05-08 08:20:35'},
+ {'category_id': '1',
+  'created_at': '2020-02-14 14:28:43',
+  'description': 'Android 9 firmware V0.2.8 for X2 Family + Full OTA\r\n'
+                 '\r\n'
+                 'Full changelog 12.02.2020\r\n'
+                 '\r\n'
+                 '1. Fixed audio clicks in AV port\r\n'
+                 '\r\n'
+                 '2. Added mouse settings to TvSettings\r\n'
+                 '\r\n'
+                 '3. Added experimental ability use mouse as touch input\r\n'
+                 '\r\n'
+                 '4. Video Picture Settings. Disabled system automatic frame '
+                 'rate function\r\n'
+                 '\r\n'
+                 '5. Video Picture Settings. Fixed bugs of hue setting\r\n'
+                 '\r\n'
+                 '6. Video Picture Settings. Removed sharpness setting\r\n'
+                 '\r\n'
+                 '7. Video Picture Settings. Added setting for disabling all '
+                 'video effects and optimizations\r\n'
+                 '\r\n'
+                 '8. Fixed some buttons in Chrome\r\n'
+                 '\r\n'
+                 '9. SambaServer. Changed names of storages\r\n'
+                 '\r\n'
+                 '10. Fixed crash of Bluetooth settings when device '
+                 'connected\r\n'
+                 '\r\n'
+                 '11. Added support ext4, ntfs, exfat for SD cards in recovery '
+                 'mode\r\n'
+                 '\r\n'
+                 '12. Added support ext4 for usb storages in recovery mode\r\n'
+                 '\r\n'
+                 '13. Added support of multiple storages (partitions) in '
+                 'recovery mode if use System Update application\r\n'
+                 '\r\n'
+                 '14. Fixed automatic update error with expanded storage\r\n'
+                 '\r\n'
+                 '15. Fixed some crashes of System Update application\r\n'
+                 '\r\n'
+                 '16. Fixed update from expanded storage if use System Update '
+                 'application',
+  'file': None,
+  'file_size': '468 Mb',
+  'id': 213,
+  'link': 'https://mega.nz/#F!L1lQjKCb!xd7-q-LU8ekcXf8hIkyxiQ',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'Android 9 firmware V0.2.8 for X2 Family + Full OTA',
+  'updated_at': '2020-02-14 14:28:43'},
+ {'category_id': '1',
+  'created_at': '2019-11-20 13:47:32',
+  'description': 'This guide will help you to reflash or update your device '
+                 'manually',
+  'file': None,
+  'file_size': '38 Mb',
+  'id': 212,
+  'link': 'https://mega.nz/#!D8l22I5B!Gn2XshPIYwlYW0NEJK7W_AyY-oeajTk5Q7oOHVgo1q4',
+  'product_id': '71',
+  'relProducts': [{'category_id': 1,
+                   'created_at': '2022-10-28 08:07:36',
+                   'description': '<p>X3 TV Boxes&nbsp;based on new generation '
+                                  'CPU S905X3, which based on Cortex-A55 '
+                                  'instead of Cortex-A53 in S905X2. New CPU '
+                                  'gives about 10% speed increase.</p>\r\n'
+                                  '\r\n'
+                                  '<p>New devices combine best Ugoos software '
+                                  'practice and new&nbsp;approach to choosing '
+                                  'hardware,&nbsp;form factor and building of '
+                                  'series.</p>\r\n'
+                                  '\r\n'
+                                  '<p>All three devices with different '
+                                  'characteristics have&nbsp;unified firmware '
+                                  'and OTA updates.</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/12x3.jpg" '
+                                  '/></p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>X3&nbsp;Cube,&nbsp;Pro and Plus uses '
+                                  'Amlogic S905X3&nbsp;SoC - CPU: Quad-Core '
+                                  'Cortex-A55&nbsp;up to 2.0GHz&nbsp; and GPU: '
+                                  'ARM Mali-G31MP2</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/1. '
+                                  'Processors Comparison 1x3.jpg" /></p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>Gamepad Settings let you extend '
+                                  'personalization of your TV Box and get more '
+                                  'advantages during gaming. Just connect you '
+                                  'favorite gamepad run Settings &ndash; '
+                                  'Gamepad Settings. In upper menu, choose '
+                                  'previously connected gamepad and set '
+                                  'buttons and axes. Safe and share profiles '
+                                  'with your friends who also has X3&nbsp;or '
+                                  'X2 or&nbsp;Ugoos devices.</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/2. '
+                                  'Gamepad settingsx3.jpg" /></p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>X3&nbsp;Project uses Ugoos OTA '
+                                  'package&nbsp;system, so all devices will be '
+                                  'up to date each time devices get new '
+                                  'update</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/3. '
+                                  'OTAx3.jpg" /></p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>Android Pie is a standard system for '
+                                  'X3&nbsp;Project devices</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/4. '
+                                  'Android 9.0 Piex3.jpg" /></p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>Amlogic S905X3&nbsp;SoC gives the '
+                                  'ability to use a new generation of USB '
+                                  'interfaces</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/5. '
+                                  'USB 3.0x3.jpg" /></p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>HDMI 2.1 for&nbsp;4K@60Hz&nbsp;with HDCP '
+                                  '1.4/2, CVBS Support conversion between '
+                                  'Rec.2020 and Rec.709&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/6. '
+                                  '4Kx3.jpg" /></p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>Amlogic S905X3&nbsp;SoC supports HDR '
+                                  'function in X3&nbsp;devices</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/7. '
+                                  'HDRx3.jpg" /></p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>LPDDR4 memory provides high-speed data '
+                                  'transactions for X3&nbsp;devices</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/8. '
+                                  'LPDDR4x3.jpg" /></p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>X3&nbsp;Special settings give&nbsp;you '
+                                  'additional control to perform the most '
+                                  'useful tasks of TV Box even better</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/9. '
+                                  'Settings gearbestx3.jpg" /></p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>X3&nbsp;project&nbsp;design created in '
+                                  'collaboration with Ugoos using more than 5 '
+                                  'years experience in TV Box '
+                                  'production</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/10. '
+                                  'X2 Designx3.jpg" /></p>\r\n'
+                                  '\r\n'
+                                  '<p>&nbsp;</p>\r\n'
+                                  '\r\n'
+                                  '<p>File server allows sharing files among '
+                                  'different OS devices in local '
+                                  'network</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://www.ugoos.com/images/uploads/11. '
+                                  'Samba server X2x3.jpg" /></p>',
+                   'id': 73,
+                   'image': 'images/uploads/1125765663994a9e7494cc840f62a707.jpg',
+                   'images': [],
+                   'manufacturer_id': None,
+                   'pivot': {'downloads_files_id': 212, 'product_id': 73},
+                   'price': '0.0000',
+                   'quantity': 1,
+                   'right_description': '<p>X3&nbsp;Family represents a row of '
+                                        'devices available for order:</p>\r\n'
+                                        '\r\n'
+                                        '<p>X3 Cube 2G+16G Android 9.0 Amlogic '
+                                        'S905X3&nbsp;Smart TV Box&nbsp;</p>\r\n'
+                                        '\r\n'
+                                        '<p>X3&nbsp;Pro&nbsp;4G+32G Android '
+                                        '9.0 Amlogic S905X3&nbsp;Smart TV '
+                                        'Box&nbsp;</p>\r\n'
+                                        '\r\n'
+                                        '<p>X3&nbsp;Plus&nbsp;4G+64G Android '
+                                        '9.0 Amlogic S905X3&nbsp;Smart TV '
+                                        'Box&nbsp;</p>',
+                   'seo_description': None,
+                   'seo_keywords': None,
+                   'seo_title': 'X3&nbsp;Family TV Boxes based on Amlogic '
+                                'S905x3',
+                   'sku': None,
+                   'sort': 4,
+                   'specification': '<table>\r\n'
+                                    '\t<tbody>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td class="tabe_title" '
+                                    'colspan="2">Hardware Specs:</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Operation System</td>\r\n'
+                                    '\t\t\t<td>Android 9.0</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Language</td>\r\n'
+                                    '\t\t\t<td>English, Chinese '
+                                    '...Multi-Language support</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>CPU</td>\r\n'
+                                    '\t\t\t<td>\r\n'
+                                    '\t\t\t<p>Amlogic S905X3&nbsp;with '
+                                    'Quad-Core Cortex-A55&nbsp;up to '
+                                    '2.0GHz</p>\r\n'
+                                    '\t\t\t</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>GPU</td>\r\n'
+                                    '\t\t\t<td>\r\n'
+                                    '\t\t\t<p>ARM Mali-G31MP2</p>\r\n'
+                                    '\t\t\t</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>SDRAM</td>\r\n'
+                                    '\t\t\t<td>LPDDR4 2GB or 4GB for X3 Pro '
+                                    'and X3 Plus</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Storage Capacity '
+                                    '(Flash)</td>\r\n'
+                                    '\t\t\t<td>16GB （EMMC） or 32GB for X3 Pro '
+                                    'and 64GB for X3 Plus</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>WIFI</td>\r\n'
+                                    '\t\t\t<td>\r\n'
+                                    '\t\t\t<p>2.4G+5G&nbsp;The wireless module '
+                                    'complies with IEEE 802.11 '
+                                    'a/b/g/n/ac&nbsp;</p>\r\n'
+                                    '\t\t\t</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>WIFI Module</td>\r\n'
+                                    '\t\t\t<td>\r\n'
+                                    '\t\t\t<p>AmPack 6255 /&nbsp; '
+                                    '&nbsp;</p>\r\n'
+                                    '\r\n'
+                                    '\t\t\t<p>Cdtech 208821С</p>\r\n'
+                                    '\t\t\t</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Bluetooth</td>\r\n'
+                                    '\t\t\t<td>Bluetooth 4.2 with LE '
+                                    'technology</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>The Extended Storage</td>\r\n'
+                                    '\t\t\t<td>TF Card, up to 32GB '
+                                    '(SD2.X,SD3.X,SD4.X, eMMC ver5.0)</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Power Supply</td>\r\n'
+                                    '\t\t\t<td>DC 5V/2.5A via Micro '
+                                    'USB</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>HDR</td>\r\n'
+                                    '\t\t\t<td>Support</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td class="tabe_title" '
+                                    'colspan="2">Interfaces:</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>HDMI Output</td>\r\n'
+                                    '\t\t\t<td>\r\n'
+                                    '\t\t\t<p>HDMI(1.4 and 2.0 ) to support '
+                                    'maximum 4K@60fps output(HDCP2.2)</p>\r\n'
+                                    '\t\t\t</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>&nbsp;</td>\r\n'
+                                    '\t\t\t<td>1*USB 3.0, 1*USB 2.0 '
+                                    'Host</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Optical Output</td>\r\n'
+                                    '\t\t\t<td>1*SPDIF</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Led Work Light</td>\r\n'
+                                    '\t\t\t<td>Support</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Network</td>\r\n'
+                                    '\t\t\t<td>1*RJ45 1000M (1000M Ethernet '
+                                    'Integrated IEEE 802.3 10/100/1000M '
+                                    'Ethernet MAC with RGMII&nbsp;<br />\r\n'
+                                    '\t\t\tinterface)</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Power Supply</td>\r\n'
+                                    '\t\t\t<td>1*DC Jack</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td class="tabe_title" '
+                                    'colspan="2">Media Parameter:</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Audio Container</td>\r\n'
+                                    '\t\t\t<td>MP3,AAC,WMA,RM,FLAC,OGG</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Audio Out</td>\r\n'
+                                    '\t\t\t<td>\r\n'
+                                    '\t\t\t<p>Supports MP3, AAC, WMA, RM, '
+                                    'FLAC, Ogg and programmable with 7.1/5.1 '
+                                    'down-mixing I2S audio interface '
+                                    'supporting 2-channel input and 8-channel '
+                                    '(7.1) output<br />\r\n'
+                                    '\t\t\tBuilt-in serial digital audio '
+                                    'SPDIF/IEC958 output and PCM '
+                                    'input/output<br />\r\n'
+                                    '\t\t\tBuilt-in stereo audio DAC,<br />\r\n'
+                                    '\t\t\tStereo digital microphone PDM '
+                                    'input<br />\r\n'
+                                    '\t\t\tSupport concurrent dual audio '
+                                    'stereo channel output with combination of '
+                                    'analog+PCM or I2S+PCM</p>\r\n'
+                                    '\t\t\t</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Video CODEC</td>\r\n'
+                                    '\t\t\t<td>VP9 Profile-2 up to 4Kx2K@60fps '
+                                    'H.265 HEVCMP-10@L5.1 up to 4K*2K@60fps<br '
+                                    '/>\r\n'
+                                    '\t\t\tH.264 AVC HP@L5.1 up '
+                                    'to4K*2K@60fps<br />\r\n'
+                                    '\t\t\tH264 MVC up to1080P@60fps<br />\r\n'
+                                    '\t\t\tMPEG-4 ASP@L5 up to 1080P@60fps '
+                                    '(ISO-14496)<br />\r\n'
+                                    '\t\t\tWMV/VC-1 5P/MP/AP up to '
+                                    '1080P@60fps<br />\r\n'
+                                    '\t\t\tAVS-P16(AVS+)/AVS-P2 jiZhun Profile '
+                                    'up to 1080P@60fps<br />\r\n'
+                                    '\t\t\tMPEG-2 MP/HL up to '
+                                    '1080P@60fps(ISO-13818)<br />\r\n'
+                                    '\t\t\tMPEG-1 MP/HL up to '
+                                    '1080P@60fps(ISO-11172)<br />\r\n'
+                                    '\t\t\tRealvideo 8/9/10 up to 1080P<br '
+                                    '/>\r\n'
+                                    '\t\t\tWebM up to VGA<br />\r\n'
+                                    '\t\t\tMultiple language and multiple '
+                                    'format sub-title video support<br />\r\n'
+                                    '\t\t\tMJPEG and JPEG unlimited pixe '
+                                    'resolution decoding(ISO/IEC-10918)<br '
+                                    '/>\r\n'
+                                    '\t\t\tSupports JPEG thumbnail, scaling, '
+                                    'rotation and transition effects<br />\r\n'
+                                    '\t\t\tSupport '
+                                    '*.mkv,*.wmv,*.mpg,*.mpeg,*.dat,*.avi,*.mov,*.iso,*.mp4,*.rm<br '
+                                    '/>\r\n'
+                                    '\t\t\tand *.jpg file formats</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Software Extension</td>\r\n'
+                                    '\t\t\t<td>Support Google Play &amp; APK '
+                                    'install</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>DLNA, Miracast Protocol</td>\r\n'
+                                    '\t\t\t<td>Support DLNA, Miracast '
+                                    'Protocol</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Remote Control</td>\r\n'
+                                    '\t\t\t<td>Remote controller</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>IM Software</td>\r\n'
+                                    '\t\t\t<td>Support Skype/QQ/MSN/GTALK '
+                                    '(Depends on APK ）</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Office Software</td>\r\n'
+                                    '\t\t\t<td>WORD/EXCEL/PDF(Depends on APK '
+                                    'install)</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td class="tabe_title" '
+                                    'colspan="2">Other Parameters:</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Operation Temperature</td>\r\n'
+                                    '\t\t\t<td>0~60℃</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Storage Temperature</td>\r\n'
+                                    '\t\t\t<td>-10~60℃</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Humidity Environment</td>\r\n'
+                                    '\t\t\t<td>5%-90%(No condensation）</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Certificate</td>\r\n'
+                                    '\t\t\t<td>CE, FCC</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td class="tabe_title" '
+                                    'colspan="2">Package:</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Dimensions</td>\r\n'
+                                    '\t\t\t<td>\r\n'
+                                    '\t\t\t<p>110*62*22mm</p>\r\n'
+                                    '\t\t\t</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Net Weight</td>\r\n'
+                                    '\t\t\t<td>90g</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t\t<tr>\r\n'
+                                    '\t\t\t<td>Gift Box Size</td>\r\n'
+                                    '\t\t\t<td>\r\n'
+                                    '\t\t\t<p>155*100*85mm</p>\r\n'
+                                    '\t\t\t</td>\r\n'
+                                    '\t\t</tr>\r\n'
+                                    '\t</tbody>\r\n'
+                                    '</table>\r\n'
+                                    '\r\n'
+                                    '<h2>&nbsp;</h2>',
+                   'status': 1,
+                   'title': 'X3 TV Box Family Series Devices based on Android '
+                            '9.0',
+                   'updated_at': '2022-10-28 08:07:36',
+                   'url': 'x3-tv-box-family-series-devices-based-on-android-9-0'}],
+  'stick': 'pdf',
+  'title': 'X2, X3 TV Boxes Reflashing Guide and Update via OTA',
+  'updated_at': '2019-11-20 13:47:32'},
+ {'category_id': '1',
+  'created_at': '2019-11-18 20:50:31',
+  'description': '1. Fixed CEC wake up\r\n'
+                 '  2. Added CEC work with function "disable auto power-on"\r\n'
+                 '  3. Improvements of system automatic frame rate function '
+                 'for more stable work with program AFR functions\r\n'
+                 '  4. Fixed video offset (black stripes), if use custom '
+                 'display size\r\n'
+                 '  5. Fixed colored stripes bug when boot with AV and on some '
+                 'old TVs\r\n'
+                 '  6. Replaced Android TV Remote Service to version from play '
+                 'market\r\n'
+                 '  7. Fixed bug, not showing all external storages for Samba '
+                 'Server\r\n'
+                 '  8. Added usb audio settings, removed USB audio routing '
+                 'from developer settings\r\n'
+                 '  9. Fixed CPU load with droidlogic app\r\n'
+                 '  10. DolbyVision disabled by default\r\n'
+                 '  11. Fixed "None" proxy setting\r\n'
+                 '  12. Fixed static ip settings bug, not showing current dns '
+                 'servers\r\n'
+                 '  13. Added custom ir power key setting\r\n'
+                 '  14. Changes in deep color setting',
+  'file': None,
+  'file_size': '743000',
+  'id': 210,
+  'link': 'https://mega.nz/#F!r4MHVQwT!Tx_o7GrJp5cozqfH7hUhww',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'Android 9 firmware V0.2.3 for Cube X2 Family + Full OTA',
+  'updated_at': '2019-11-18 20:50:31'},
+ {'category_id': '1',
+  'created_at': '2019-10-14 07:51:44',
+  'description': 'Product instruction shows the main functions of a TV Box',
+  'file': None,
+  'file_size': '11',
+  'id': 206,
+  'link': 'https://mega.nz/#!fl8FVKID!h8m_Rp5olMyVIWcSaUCna_OBSS7F3nR6c_4pBfp_bbk',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'pdf',
+  'title': 'X2 Product user manual',
+  'updated_at': '2019-10-14 07:51:44'},
+ {'category_id': '1',
+  'created_at': '2019-10-25 07:32:44',
+  'description': 'Changelog v 0.2.1\r\n'
+                 ' \r\n'
+                 ' 1. Fixed video rotation\r\n'
+                 '  2. Fixed video scaling higher than 100%\r\n'
+                 '  3. Added write permissions to external storages for '
+                 'applications\r\n'
+                 '  4. Fixed button loss for input devices settings\r\n'
+                 '  5. Added buttons MOVE_END, MOVE_HOME, F2-F5 for input '
+                 'devices settings\r\n'
+                 '  6. Removed camera event when double press the power '
+                 'button\r\n'
+                 '  7. Added default keylayout for g20s air mouse\r\n'
+                 '  8. Fixed air mouse microphone',
+  'file': None,
+  'file_size': '1130',
+  'id': 204,
+  'link': 'https://mega.nz/#F!PodkFSCD!IBMpf2dOCkvyeZVp-R-Rbw',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'X2 Cube/Pro  firmware V0.2.1 + Full OTA Pack',
+  'updated_at': '2019-10-25 07:32:44'},
+ {'category_id': '2',
+  'created_at': '2019-10-25 07:28:28',
+  'description': 'X2 - 0.1.1\r\n'
+                 '\r\n'
+                 '  1. Added ability to set wallpaper to fit the screen\r\n'
+                 '  2. Added ability lock FullHD interface for applications '
+                 'that change display mode to 4k (Device Preferences -> '
+                 'Display -> Screen resolution)\r\n'
+                 '  3. Fixed S/PDIF passthrough work\r\n'
+                 '  4. Added power settings, silent boot settings (Device '
+                 'Preferences -> Power)\r\n'
+                 '  5. Other minor changes',
+  'file': None,
+  'file_size': '1115',
+  'id': 200,
+  'link': 'https://mega.nz/#F!ihsxxSZJ!k_hjrNxScZaikRrmKj3GDw',
+  'product_id': '71',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'X2 Cube/Pro firmware V0.1.1',
+  'updated_at': '2019-10-25 07:28:28'}]

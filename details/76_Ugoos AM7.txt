@@ -1,0 +1,170 @@
+[{'category_id': '1',
+  'created_at': '2022-12-21 14:01:46',
+  'description': '1. Fixed random disconnect Bluetooth remote controller and '
+                 'some other problems\r\n'
+                 '2. Added ability to set sleep timer once; added option to '
+                 'power menu\r\n'
+                 '3. Fixed problem that caused color mode to reset after '
+                 'sleep\r\n'
+                 '4. Fixed some HDMI hotplug errors\r\n'
+                 '5. Fixed synchronization Google account problem',
+  'file': None,
+  'file_size': '631.7 MB',
+  'id': 268,
+  'link': 'https://mega.nz/file/LxElmJ7S#zndq3xSfjbKxVXgMHW6bhpRJBO-S3aWRXC9jX77OZgw',
+  'product_id': '76',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.1.4 for Ugoos AM7',
+  'updated_at': '2022-12-21 14:01:46'},
+ {'category_id': '1',
+  'created_at': '2022-07-18 14:57:56',
+  'description': '1. Fixed no sound problem after sleep\r\n'
+                 '\r\n'
+                 '2. Fixes of setting for power connect action\r\n'
+                 '\r\n'
+                 '3. Some improvements for system automatic frame rate '
+                 'function\r\n'
+                 '\r\n'
+                 '4. Fixed playback problems and device reboots on some IPTV '
+                 'channels\r\n'
+                 '\r\n'
+                 '5. Fixed no sound in GeForce Now application for Bluetooth '
+                 'devices (need re-pair)\r\n'
+                 '\r\n'
+                 '6. Changed key layout for G20 BTS PRO\r\n'
+                 '\r\n'
+                 '7. Magisk updated to version 25.1',
+  'file': None,
+  'file_size': '615 MB',
+  'id': 259,
+  'link': 'https://mega.nz/file/38kmQbbZ#VH8PJ6AABC2Rrzu-nvCTzmsowGsCtanyKyds7D3oHb8',
+  'product_id': '76',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.1.0 for AM7',
+  'updated_at': '2022-07-18 14:57:56'},
+ {'category_id': '1',
+  'created_at': '2022-02-05 12:52:56',
+  'description': 'Changelog:\r\n'
+                 '1. Fixed formatting some SD cards as device storage\r\n'
+                 '2. Fixed excessive CPU loading after hibernation\r\n'
+                 '3. Fixed voice search after hibernation\r\n'
+                 '4. Fixed AC3 pass-through support for some TVs\r\n'
+                 '5. Fixed system crash when pressing Menu frequently\r\n'
+                 '6. Now music playback does not stop in sleep mode if a '
+                 'Bluetooth or USB audio device is used\r\n'
+                 '7. In system update added option to get pre-release '
+                 'versions\r\n'
+                 '8. Added mouse as a touch input option (Input & devices - '
+                 'Mouse)\r\n'
+                 '9. Changed Magisk dialog in settings\r\n'
+                 '10. Magisk updated',
+  'file': None,
+  'file_size': '615 MB',
+  'id': 253,
+  'link': 'https://mega.nz/file/n8tTVYCZ#fqnD20E678Vrj3oednkHjqeNAFX2ahbdszwLlqh9v4o',
+  'product_id': '76',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.7 for AM7',
+  'updated_at': '2022-02-05 12:52:56'},
+ {'category_id': '1',
+  'created_at': '2022-01-14 06:06:56',
+  'description': '1. Improvements of automatic frame rate function\r\n'
+                 '2. Fixed error where video size might not fit the screen\r\n'
+                 '3. Fixed GeForce Now freezes\r\n'
+                 '4. Added power indicator settings\r\n'
+                 '5. Added Bluetooth settings\r\n'
+                 '6. Added DTS-HD and TrueHD audio pass-through for hardware '
+                 'audio decoder\r\n'
+                 '7. Fixed synchronization of DTS-HD and TrueHD audio '
+                 'pass-through\r\n'
+                 '8. Improvements of video codecs\r\n'
+                 '9. USearch changes:\r\n'
+                 '    - added sorting and deleting of search results\r\n'
+                 '    - changed results design\r\n'
+                 '    - added settings menu\r\n'
+                 '    - added application launch after clicking on icon '
+                 '(results row)\r\n'
+                 '    - fixed problem of long search for applications\r\n'
+                 '10. Many other changes for system stability',
+  'file': None,
+  'file_size': '614.9 MB',
+  'id': 250,
+  'link': 'https://mega.nz/file/6k8jBQTK#AuZT7oI5d5nKB5a3QTwc_XWRemDCFG1m-_AlC_B36RQ',
+  'product_id': '76',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.6 for AM7',
+  'updated_at': '2022-01-14 06:06:56'},
+ {'category_id': '1',
+  'created_at': '2021-12-11 09:48:50',
+  'description': '1. Improvements of IPTV playback\r\n'
+                 '2. Improved automatic frame rate function for H.264 codec\r\n'
+                 '3. Improved work of volume control via HDMI CEC',
+  'file': None,
+  'file_size': '589.7Mb',
+  'id': 248,
+  'link': 'https://mega.nz/file/2hdGGbDJ#DAQ2g_7s0fsMnlrUdqSxcpTJErOxBcBvFpmvXTweljM',
+  'product_id': '76',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.5 for AM7',
+  'updated_at': '2021-12-11 09:48:50'},
+ {'category_id': '1',
+  'created_at': '2021-12-07 07:32:09',
+  'description': '1. Added samba server, NFS client, CIFS client (Storage)\r\n'
+                 '2. Added configuration for G20 BTS air mouse\r\n'
+                 '3. Improves of automatic frame rate function\r\n'
+                 '4. Improved Ethernet stability\r\n'
+                 '5. Fixes of HDMI hotplug\r\n'
+                 '6. Fixes of power modes work\r\n'
+                 '7. Fixed pairing bluetooth devices in additional settings\r\n'
+                 '8. Fixed kernel crash for videoplayback with bad frames\r\n'
+                 '9. Fixed kernel crash for HDR10+ videos\r\n'
+                 '10. Fixed work of USearch with some applications\r\n'
+                 '11. Fixed snapshots in recent applications window',
+  'file': None,
+  'file_size': '609Mb',
+  'id': 245,
+  'link': 'https://mega.nz/file/P00GUTwB#x5xtYS7tqf0dWp5lrR-BZRo5vFhJVhCYuhxpQZUKL0I',
+  'product_id': '76',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.4 for AM7 IMG File',
+  'updated_at': '2021-12-07 07:32:09'},
+ {'category_id': '1',
+  'created_at': '2021-12-07 07:30:32',
+  'description': '1. Added new voice input application\r\n'
+                 '2. Fixed problem with install Google application\r\n'
+                 '3. Fixed problem with broken cursor after hiding '
+                 'notifications\r\n'
+                 '4. Removed 120 Hz display mode\r\n'
+                 '5. Fixed button manager issue for some remote controllers\r\n'
+                 '6. Fixed problem with authorization in Google '
+                 'applications\r\n'
+                 '7. Audio pass-through improvements\r\n'
+                 '8. Improvements of video codecs\r\n'
+                 '9. Many other changes for system stability',
+  'file': None,
+  'file_size': '609Mb',
+  'id': 244,
+  'link': 'https://mega.nz/file/y5lBnCRT#Nht6v_TM2sGQDBFZeEG05MWwS_CnvyH4bcJYIYpJSjQ',
+  'product_id': '76',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.3 for AM7 IMG File',
+  'updated_at': '2021-12-07 07:30:32'},
+ {'category_id': '1',
+  'created_at': '2021-10-11 16:54:38',
+  'description': 'Bug Fixes',
+  'file': None,
+  'file_size': '609Mb',
+  'id': 242,
+  'link': 'https://mega.nz/file/Kx0kGaII#HHpdmSl4QrdIxvwuGtXZVbbIPkbLv6Ws2nDVhnxa85Q',
+  'product_id': '76',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.2 for AM7 IMG File',
+  'updated_at': '2021-10-11 16:54:38'}]

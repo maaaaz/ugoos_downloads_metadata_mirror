@@ -1,0 +1,19 @@
+[{'category_id': '1',
+  'created_at': '2022-12-21 14:03:16',
+  'description': '1. Fixed random disconnect Bluetooth remote controller and '
+                 'some other problems\r\n'
+                 '2. Added ability to set sleep timer once; added option to '
+                 'power menu\r\n'
+                 '3. Fixed problem that caused color mode to reset after '
+                 'sleep\r\n'
+                 '4. Fixed some HDMI hotplug errors\r\n'
+                 '5. Fixed synchronization Google account problem',
+  'file': None,
+  'file_size': '631.7 MB',
+  'id': 269,
+  'link': 'https://mega.nz/file/y48iUJIZ#QfxL0m3J0R5f70923a5c58a95w342tQsfK6TNhY5r88',
+  'product_id': '81',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.1.4 for Ugoos X4Q Family',
+  'updated_at': '2022-12-21 14:03:16'}]

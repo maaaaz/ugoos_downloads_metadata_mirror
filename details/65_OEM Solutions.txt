@@ -1,0 +1,179 @@
+[{'category_id': '3',
+  'created_at': '2014-12-26 21:51:40',
+  'description': 'Remote Control application for Rockchip devices by '
+                 'smartphone',
+  'file': None,
+  'file_size': '2.6 MiB',
+  'id': 3,
+  'link': 'https://mega.nz/#!KUAjDAqJ!VUgqLHP-wgWrpil5G_Mp7r-fb4ggec8C9GQtEjTDtDU',
+  'product_id': '52',
+  'relProducts': [{'category_id': 6,
+                   'created_at': '2019-02-12 10:16:06',
+                   'description': '<p>What is Anysign?</p>\r\n'
+                                  '\r\n'
+                                  '<p>Anysign is a cloud-based Digital Signage '
+                                  'Solution for any sort of centralized '
+                                  'advertisement&nbsp;campaign.</p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="" '
+                                  'src="https://ugoos.com/images/uploads/clevercanvas '
+                                  '(3).jpg" /><iframe allowfullscreen="" '
+                                  'frameborder="0" height="360" '
+                                  'src="https://www.youtube.com/embed/t1LW55rrrxk?start=0" '
+                                  'width="640"></iframe></p>\r\n'
+                                  '\r\n'
+                                  '<p style="margin:0in 0in 8pt"><span '
+                                  'style="font-size:11pt"><span '
+                                  'style="line-height:106%"><span '
+                                  'style="font-family:Calibri,sans-serif">Control '
+                                  'advertising units and other digital content '
+                                  'management have never been so simple and '
+                                  'effective. Our solutions are able to help '
+                                  'you and your '
+                                  'business:</span></span></span></p>\r\n'
+                                  '\r\n'
+                                  '<p style="margin:0in 0in 8pt"><span '
+                                  'style="font-size:11pt"><span '
+                                  'style="line-height:106%"><span '
+                                  'style="font-family:Calibri,sans-serif">&bull; '
+                                  'Set Commercials in the script with definite '
+                                  'sequence and '
+                                  'timing;</span></span></span></p>\r\n'
+                                  '\r\n'
+                                  '<p style="margin:0in 0in 8pt"><span '
+                                  'style="font-size:11pt"><span '
+                                  'style="line-height:106%"><span '
+                                  'style="font-family:Calibri,sans-serif">&bull; '
+                                  'Show related information to customers for '
+                                  'their retention and / or forwarding, '
+                                  'dynamic '
+                                  'navigation;</span></span></span></p>\r\n'
+                                  '\r\n'
+                                  '<p style="margin:0in 0in 8pt"><span '
+                                  'style="font-size:11pt"><span '
+                                  'style="line-height:106%"><span '
+                                  'style="font-family:Calibri,sans-serif">&bull; '
+                                  'Place the internal information for '
+                                  'employees;</span></span></span></p>\r\n'
+                                  '\r\n'
+                                  '<p style="margin:0in 0in 8pt"><span '
+                                  'style="font-size:11pt"><span '
+                                  'style="line-height:106%"><span '
+                                  'style="font-family:Calibri,sans-serif">&bull; '
+                                  'Display ambient and interior design '
+                                  'elements using digital '
+                                  'screens</span></span></span></p>\r\n'
+                                  '\r\n'
+                                  '<p style="margin:0in 0in 8pt"><span '
+                                  'style="font-size:11pt"><span '
+                                  'style="line-height:106%"><span '
+                                  'style="font-family:Calibri,sans-serif">Anysign '
+                                  'gives you the tools '
+                                  'to:</span></span></span></p>\r\n'
+                                  '\r\n'
+                                  '<p style="margin:0in 0in 8pt"><span '
+                                  'style="font-size:11pt"><span '
+                                  'style="line-height:106%"><span '
+                                  'style="font-family:Calibri,sans-serif">&bull; '
+                                  'Manage your digital content; obtain strict '
+                                  'control for displayed information on '
+                                  'selected groups of '
+                                  'screens</span></span></span></p>\r\n'
+                                  '\r\n'
+                                  '<p style="margin:0in 0in 8pt"><span '
+                                  'style="font-size:11pt"><span '
+                                  'style="line-height:106%"><span '
+                                  'style="font-family:Calibri,sans-serif">&bull; '
+                                  'Intuitive control tools to manage hundreds '
+                                  'and even thousands of screens from any '
+                                  'location using a personal account on your '
+                                  'PC.</span></span></span></p>\r\n'
+                                  '\r\n'
+                                  '<p style="margin:0in 0in 8pt"><span '
+                                  'style="font-size:11pt"><span '
+                                  'style="line-height:106%"><span '
+                                  'style="font-family:Calibri,sans-serif">&bull; '
+                                  'Additional information displaying (weather, '
+                                  'news tickers, social networks) using a '
+                                  'plugin, or the ability to create '
+                                  'stand-alone applications with HTML 5 '
+                                  'support </span></span></span></p>\r\n'
+                                  '\r\n'
+                                  '<p style="margin:0in 0in 8pt"><span '
+                                  'style="font-size:11pt"><span '
+                                  'style="line-height:106%"><span '
+                                  'style="font-family:Calibri,sans-serif"><img '
+                                  'alt="" '
+                                  'src="https://ugoos.com/images/uploads/anysign1.jpg" '
+                                  '/><img alt="" '
+                                  'src="https://ugoos.com/images/uploads/anysign11 '
+                                  '(4).jpg" /> </span></span></span></p>\r\n'
+                                  '\r\n'
+                                  '<p style="margin:0in 0in 8pt"><strong><font '
+                                  'face="Calibri, sans-serif"><span '
+                                  'style="font-size: 14.6667px;">Anysign is '
+                                  'available for </span></font></strong><font '
+                                  'face="Calibri, sans-serif"><span '
+                                  'style="font-size: 14.6667px;"><strong>a '
+                                  'free</strong><strong> trial '
+                                  '</strong><strong>via</strong></span></font><strong><font '
+                                  'face="Calibri, sans-serif"><span '
+                                  'style="font-size: 14.6667px;"> <a '
+                                  'href="https://anysign.tv">www.anysign.tv</a></span></font></strong></p>',
+                   'id': 66,
+                   'image': 'images/uploads/b77a594cdeff4b8691ce521d30d2561b.jpg',
+                   'images': [],
+                   'manufacturer_id': None,
+                   'pivot': {'downloads_files_id': 3, 'product_id': 66},
+                   'price': '0.0000',
+                   'quantity': 1,
+                   'right_description': '<p>Cloud-based Digital Signage '
+                                        'Solution for Advertisement '
+                                        'Campaign</p>',
+                   'seo_description': 'Cloud-based Digital Signage Solution '
+                                      'for Advertisement Campaign',
+                   'seo_keywords': 'digital signage, marketing tool, android, '
+                                   'advertisement compaign',
+                   'seo_title': 'Anysign Digital Signage Platform',
+                   'sku': None,
+                   'sort': 501,
+                   'specification': '',
+                   'status': 1,
+                   'title': 'Anysign Digital Signage',
+                   'updated_at': '2019-02-12 10:16:05',
+                   'url': 'anysign-digital-signage'},
+                  {'category_id': 6,
+                   'created_at': '2019-04-17 02:16:36',
+                   'description': '<p><img alt="" '
+                                  'src="https://ugoos.com/images/uploads/OEM_s.jpg" '
+                                  '/></p>',
+                   'id': 65,
+                   'image': 'images/uploads/57f19565620c9a98dc5d838bc995bb7e.jpg',
+                   'images': [],
+                   'manufacturer_id': None,
+                   'pivot': {'downloads_files_id': 3, 'product_id': 65},
+                   'price': '0.0000',
+                   'quantity': 1,
+                   'right_description': '<p>OEM solutions may include various '
+                                        'hardware or/and '
+                                        'software&nbsp;services based on our '
+                                        'current projects and brand new ideas '
+                                        'based on ARM technologies</p>',
+                   'seo_description': 'OEM solutions may include various '
+                                      'hardware or/and software services based '
+                                      'on our current projects and brand new '
+                                      'ideas based on ARM technologies',
+                   'seo_keywords': 'OEM, specification, customization, '
+                                   'hardware, software, ARM, firmware, pcba, '
+                                   'layout, digital signage, order,',
+                   'seo_title': 'OEM Solutions',
+                   'sku': None,
+                   'sort': 500,
+                   'specification': '',
+                   'status': 1,
+                   'title': 'OEM Solutions',
+                   'updated_at': '2019-04-17 02:16:36',
+                   'url': 'oem-solutions'}],
+  'stick': 'apk',
+  'title': 'Remote control application',
+  'updated_at': '2014-12-26 21:51:40'}]

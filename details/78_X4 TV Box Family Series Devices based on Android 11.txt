@@ -1,0 +1,170 @@
+[{'category_id': '1',
+  'created_at': '2022-12-21 14:00:22',
+  'description': '1. Fixed random disconnect Bluetooth remote controller and '
+                 'some other problems\r\n'
+                 '2. Added ability to set sleep timer once; added option to '
+                 'power menu\r\n'
+                 '3. Fixed problem that caused color mode to reset after '
+                 'sleep\r\n'
+                 '4. Fixed some HDMI hotplug errors\r\n'
+                 '5. Fixed synchronization Google account problem',
+  'file': None,
+  'file_size': '631.7 MB',
+  'id': 267,
+  'link': 'https://mega.nz/file/Lg0zXQhB#xdHJSqp7bUmTS0IWdTc8rxF3vKW6DM44hZujb7zACSg',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.1.4 for Ugoos X4 Family',
+  'updated_at': '2022-12-21 14:00:22'},
+ {'category_id': '1',
+  'created_at': '2022-07-18 14:59:48',
+  'description': '1. Fixed no sound problem after sleep\r\n'
+                 '\r\n'
+                 '2. Fixes of setting for power connect action\r\n'
+                 '\r\n'
+                 '3. Some improvements for system automatic frame rate '
+                 'function\r\n'
+                 '\r\n'
+                 '4. Fixed playback problems and device reboots on some IPTV '
+                 'channels\r\n'
+                 '\r\n'
+                 '5. Fixed no sound in GeForce Now application for Bluetooth '
+                 'devices (need re-pair)\r\n'
+                 '\r\n'
+                 '6. Changed key layout for G20 BTS PRO\r\n'
+                 '\r\n'
+                 '7. Magisk updated to version 25.1',
+  'file': None,
+  'file_size': '614.9 MB',
+  'id': 260,
+  'link': 'https://mega.nz/file/q4lywSAZ#K25n1lHInWt2X6-8mCcK7p54GWIuXPJM6ffokclU280',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.1.0 for Ugoos X4 Family',
+  'updated_at': '2022-07-18 14:59:48'},
+ {'category_id': '1',
+  'created_at': '2022-02-05 12:51:08',
+  'description': 'Changelog:\r\n'
+                 '1. Fixed formatting some SD cards as device storage\r\n'
+                 '2. Fixed excessive CPU loading after hibernation\r\n'
+                 '3. Fixed voice search after hibernation\r\n'
+                 '4. Fixed AC3 pass-through support for some TVs\r\n'
+                 '5. Fixed system crash when pressing Menu frequently\r\n'
+                 '6. Now music playback does not stop in sleep mode if a '
+                 'Bluetooth or USB audio device is used\r\n'
+                 '7. In system update added option to get pre-release '
+                 'versions\r\n'
+                 '8. Added mouse as a touch input option (Input & devices - '
+                 'Mouse)\r\n'
+                 '9. Changed Magisk dialog in settings\r\n'
+                 '10. Magisk updated',
+  'file': None,
+  'file_size': '614.9 MB',
+  'id': 252,
+  'link': 'https://mega.nz/file/7tlhgSpK#j9TXJOHjf7SA2W9zOaXuKQ1SxraXoOPt1zQDIMYqDJI',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.7 for Ugoos X4 Family',
+  'updated_at': '2022-02-05 12:51:08'},
+ {'category_id': '1',
+  'created_at': '2022-01-14 06:08:49',
+  'description': '1. Improvements of automatic frame rate function\r\n'
+                 '2. Fixed error where video size might not fit the screen\r\n'
+                 '3. Fixed GeForce Now freezes\r\n'
+                 '4. Added power indicator settings\r\n'
+                 '5. Added Bluetooth settings\r\n'
+                 '6. Added DTS-HD and TrueHD audio pass-through for hardware '
+                 'audio decoder\r\n'
+                 '7. Fixed synchronization of DTS-HD and TrueHD audio '
+                 'pass-through\r\n'
+                 '8. Improvements of video codecs\r\n'
+                 '9. USearch changes:\r\n'
+                 '    - added sorting and deleting of search results\r\n'
+                 '    - changed results design\r\n'
+                 '    - added settings menu\r\n'
+                 '    - added application launch after clicking on icon '
+                 '(results row)\r\n'
+                 '    - fixed problem of long search for applications\r\n'
+                 '10. Many other changes for system stability',
+  'file': None,
+  'file_size': '594.6 MB',
+  'id': 251,
+  'link': 'https://mega.nz/file/C8dWFJQI#PbhnKDiLcYw6quzSPZRne_MQTKA3JUAneUA5W-yHLlM',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.6 for Ugoos X4 Family',
+  'updated_at': '2022-01-14 06:08:49'},
+ {'category_id': '1',
+  'created_at': '2021-12-11 09:49:45',
+  'description': '1. Improvements of IPTV playback\r\n'
+                 '2. Improved automatic frame rate function for H.264 codec\r\n'
+                 '3. Improved work of volume control via HDMI CEC',
+  'file': None,
+  'file_size': '589.7Mb',
+  'id': 249,
+  'link': 'https://mega.nz/file/alFk1JKa#6DdRi1QxIl1I-hw3L8Hk4wKGA7mr0ryt_pABA-DLXJs',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.5 for Ugoos X4 Family',
+  'updated_at': '2021-12-11 09:49:45'},
+ {'category_id': '1',
+  'created_at': '2021-12-07 07:39:02',
+  'description': '1. Added samba server, NFS client, CIFS client (Storage)\r\n'
+                 '2. Added configuration for G20 BTS air mouse\r\n'
+                 '3. Improves of automatic frame rate function\r\n'
+                 '4. Improved Ethernet stability\r\n'
+                 '5. Fixes of HDMI hotplug\r\n'
+                 '6. Fixes of power modes work\r\n'
+                 '7. Fixed pairing bluetooth devices in additional settings\r\n'
+                 '8. Fixed kernel crash for videoplayback with bad frames\r\n'
+                 '9. Fixed kernel crash for HDR10+ videos\r\n'
+                 '10. Fixed work of USearch with some applications\r\n'
+                 '11. Fixed snapshots in recent applications window',
+  'file': None,
+  'file_size': '589.7Mb',
+  'id': 247,
+  'link': 'https://mega.nz/file/q1MRmCyR#owx3MfE3Np4qxjEhBbdWw0AGgtXHAiCh1qCKw_3E6UA',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.4 for Ugoos X4 Family',
+  'updated_at': '2021-12-07 07:39:02'},
+ {'category_id': '1',
+  'created_at': '2021-12-07 07:37:20',
+  'description': '1. Added new voice input application\r\n'
+                 '2. Fixed problem with install Google application\r\n'
+                 '3. Fixed problem with broken cursor after hiding '
+                 'notifications\r\n'
+                 '4. Removed 120 Hz display mode\r\n'
+                 '5. Fixed button manager issue for some remote controllers\r\n'
+                 '6. Fixed problem with authorization in Google '
+                 'applications\r\n'
+                 '7. Audio pass-through improvements\r\n'
+                 '8. Improvements of video codecs\r\n'
+                 '9. Many other changes for system stability',
+  'file': None,
+  'file_size': '609Mb',
+  'id': 246,
+  'link': 'https://mega.nz/file/H0skWSpL#DLyDTBr7tG1qqOcUlCKiva-5hGizYIiyai50lst2Uz4',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.3 for Ugoos X4 Family',
+  'updated_at': '2021-12-07 07:37:20'},
+ {'category_id': '1',
+  'created_at': '2021-10-11 16:53:05',
+  'description': 'Bug Fixes',
+  'file': None,
+  'file_size': '589.7Mb',
+  'id': 243,
+  'link': 'https://mega.nz/file/v4kU0ARQ#ALjoq3pT6DU8Ime45BEud3Mw6ETstkXGrTr8QLGUyuE',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.0.2 for X4 IMG File',
+  'updated_at': '2021-10-11 16:53:05'}]
