@@ -1,4 +1,36 @@
 [{'category_id': '1',
+  'created_at': '2023-05-11 08:16:28',
+  'description': '1. Added option to turn off always visible Bluetooth\r\n'
+                 '2. Fixed Bluetooth remote controller connection lost after '
+                 'shutdown by air mouse\r\n'
+                 '3. Fixed text input by mouse in settings\r\n'
+                 '4. Fixed focus reset in application selection window\r\n'
+                 '5. Fixed support of some applications\r\n'
+                 '6. Changed screen saver and energy saver timers setting\r\n'
+                 '7. Now one-shot timer always resets after any power '
+                 'action\r\n'
+                 '8. Added framebuffer size setting\r\n'
+                 '9. Changed logic of lock UI size option\r\n'
+                 '10. Added font and density settings\r\n'
+                 "11. Fixed rare bug when new audio passthrough track can't be "
+                 'start\r\n'
+                 '12. Fixed playback of FLAC and WAV audio tracks\r\n'
+                 '13. Added PCM format setting for choose supported formats\r\n'
+                 '14. Added AC3 decoder\r\n'
+                 '15. Added USB audio settings\r\n'
+                 '16. Added always SDR policy\r\n'
+                 '17. Added new option: enhanced HDR to SDR\r\n'
+                 '18. Some other changes for system stability',
+  'file': None,
+  'file_size': '658,4 MB',
+  'id': 273,
+  'link': 'https://mega.nz/file/35skBaRY#Cwc_yYhgZUCKrI0naMxje2G59dDdTbs0A0I_6xFkqig',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.1.7 for Ugoos X4 Family',
+  'updated_at': '2023-05-11 08:16:28'},
+ {'category_id': '1',
   'created_at': '2022-12-21 14:00:22',
   'description': '1. Fixed random disconnect Bluetooth remote controller and '
                  'some other problems\r\n'
