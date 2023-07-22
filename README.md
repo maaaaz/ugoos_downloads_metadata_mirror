@@ -10,7 +10,7 @@ Mirror of [Ugoos Download Center](https://ugoos.com/downloads) metadata:
 
 TODO
 ----
-Find a way to mirror actual firmware files
+Find a way to mirror actual firmware files  
 Some files mirrored here: https://mega.nz/folder/BzMRHLQJ#jiuGRmTvyu0ocr2dxy0xbw
 
 
