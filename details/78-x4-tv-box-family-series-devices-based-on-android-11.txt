@@ -1,4 +1,92 @@
 [{'category_id': '1',
+  'created_at': '2024-11-12 08:36:52',
+  'description': '1. Added video picture settings: noise reduction, '
+                 'sharpness\r\n'
+                 '2. Added setting for change number of volume regulator '
+                 'steps\r\n'
+                 '3. Fixed some issues with high-resolution audio playback\r\n'
+                 '4. Added support for some TrueHD streams in native video '
+                 'players\r\n'
+                 '5. Fixed support of some DTS-HD audio tracks\r\n'
+                 '6. Added support for DTS-HD audio passthrough in native '
+                 'video players\r\n'
+                 '7. Added Uplayer v.0.2.0 as preinstalled application\r\n'
+                 '8. Hide AOSP keyboard when pressing DPAD_UP button\r\n'
+                 '9. Added UR02 update service\r\n'
+                 '10. Video codecs update\r\n'
+                 '11. GPU driver update\r\n'
+                 '12. Improved Samba server stability\r\n'
+                 '13. Added ability to take bug reports from settings (About '
+                 'page), quick settings on the top panel and as a menu button '
+                 'option\r\n'
+                 '14. Added long press event for Home button\r\n'
+                 '15. Added ATV applications support to Launcher3\r\n'
+                 '16. Added ATV applications to select in automatic frame rate '
+                 'feature\r\n'
+                 '17. Added network and VPN names to hardware monitor\r\n'
+                 '18. Fixed slow playback after rewinding for some H.264 '
+                 'streams\r\n'
+                 '19. Added UI mode setting for applications\r\n'
+                 '20. Added ability to disable media file scanning for CIFS '
+                 'and NFS clients\r\n'
+                 '21. Fixed issues with some applications\r\n'
+                 '22. Some other system changes',
+  'file': None,
+  'file_size': '705.7Mb',
+  'id': 298,
+  'link': 'https://mega.nz/file/7stFRKYQ#CaDmy1m8X6JbCKSwCOcO3fsBBJvF3AYUWA0caw4wVUM',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.2.4 for Ugoos X4 Family',
+  'updated_at': '2024-11-12 08:36:52'},
+ {'category_id': '1',
+  'created_at': '2024-04-22 07:04:35',
+  'description': '1. Automatic frame rate function:\r\n'
+                 '    - fixed some rare system crashes\r\n'
+                 '    - new frequency switching policy\r\n'
+                 '    - fixed some problems with returning display mode\r\n'
+                 '2. Fixed HDMI volume control when CEC disabled\r\n'
+                 '3. Added setting to disable volume regulator in '
+                 'applications\r\n'
+                 '4. Added split screen function to recent applications '
+                 'window\r\n'
+                 '5. Fixed Gallery application crash\r\n'
+                 '6. Automatic detection of default density based on '
+                 'framebuffer size\r\n'
+                 '7. Removed Lock UI setting\r\n'
+                 '8. Added support for 1080p 120Hz display mode\r\n'
+                 '9. Fixed issue with resetting the display color mode\r\n'
+                 '10. Added Dolby Vision mode setting (X4Q Extra)\r\n'
+                 '11. Magisk updated to version 27.0\r\n'
+                 '12. Some other changes',
+  'file': None,
+  'file_size': '657,4 MB',
+  'id': 284,
+  'link': 'https://mega.nz/file/jlVDmRjL#qsJDPmR48OUTf9irzQEF21ifRmPnlpMEB7kKwQlSJuE',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.2.0 for Ugoos X4 Family',
+  'updated_at': '2024-04-22 07:04:35'},
+ {'category_id': '1',
+  'created_at': '2023-11-02 07:35:13',
+  'description': '1. Allowed transfer of all file types via Bluetooth\r\n'
+                 '2. Added video picture settings\r\n'
+                 '3. Added ability to open video picture settings using Menu '
+                 'button\r\n'
+                 '4. Magisk updated to version 26.3\r\n'
+                 '5. Some other changes',
+  'file': None,
+  'file_size': '705.7Mb',
+  'id': 280,
+  'link': 'https://mega.nz/file/D8VwnbLS#5x6oJmGBCgd-bktySDAXgHmETkmLnaE4-b2PY9BGDk8',
+  'product_id': '78',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 11 firmware V. 1.1.9 for Ugoos X4 Family',
+  'updated_at': '2023-11-02 07:35:13'},
+ {'category_id': '1',
   'created_at': '2023-05-11 08:16:28',
   'description': '1. Added option to turn off always visible Bluetooth\r\n'
                  '2. Fixed Bluetooth remote controller connection lost after '

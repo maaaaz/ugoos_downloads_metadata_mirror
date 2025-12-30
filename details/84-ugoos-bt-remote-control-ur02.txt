@@ -1,0 +1,42 @@
+[{'category_id': '4',
+  'created_at': '2024-08-06 15:03:25',
+  'description': 'Instruction explains how to update firmware for UR02',
+  'file': 'files/uploads/780ca34082fbc8de037a89a93837d446.pdf',
+  'file_size': '2.3Mb',
+  'id': 291,
+  'link': None,
+  'product_id': '84',
+  'relProducts': [],
+  'stick': 'pdf',
+  'title': 'UR02 Update Instruction',
+  'updated_at': '2024-08-06 15:03:25'},
+ {'category_id': '4',
+  'created_at': '2024-08-06 14:32:16',
+  'description': 'APK for Ugoos Remote UR02 Update',
+  'file': 'files/uploads/ae7ff383dc712da9120f626452de3c3a.apk',
+  'file_size': '15.9 Mb',
+  'id': 290,
+  'link': None,
+  'product_id': '84',
+  'relProducts': [],
+  'stick': 'apk',
+  'title': 'Ugoos Remote UR02 Firmware Updater',
+  'updated_at': '2024-08-06 14:32:16'},
+ {'category_id': '4',
+  'created_at': '2024-07-31 14:40:47',
+  'description': 'Instruction explain how to use the whole UR02 functionality '
+                 'including:\r\n'
+                 '- Bluetooth pairing\r\n'
+                 '- Buttons Learning\r\n'
+                 '- Remote air mouse mode\r\n'
+                 '- Factory reset\r\n'
+                 '-etc',
+  'file': 'files/uploads/6270845f05e2882d8fb7968d77fb0dfd.pdf',
+  'file_size': '5.3 MB',
+  'id': 288,
+  'link': None,
+  'product_id': '84',
+  'relProducts': [],
+  'stick': 'pdf',
+  'title': 'Ugoos Remote UR02 User Instruction',
+  'updated_at': '2024-07-31 14:40:47'}]

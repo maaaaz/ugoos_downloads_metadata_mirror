@@ -1,0 +1,48 @@
+[{'category_id': '1',
+  'created_at': '2025-12-17 09:20:20',
+  'description': '1. Fixed system crashes\r\n'
+                 '2. Automatic frame rate function improvements\r\n'
+                 '3. Fixed interlaced videos stuttering\r\n'
+                 '4. Fixed some audio passthrough issues\r\n'
+                 '5. Some other system changes',
+  'file': None,
+  'file_size': '1.06Gb',
+  'id': 319,
+  'link': 'https://mega.nz/file/3wdVBQRa#WxNOeshgKL7EhYgMZFCev8MPC2aowtiDcroEjMwqqSE',
+  'product_id': '95',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 14 Ugoos SK4 Firmware v. 2.0.5',
+  'updated_at': '2025-12-17 09:20:20'},
+ {'category_id': '1',
+  'created_at': '2025-12-03 15:25:06',
+  'description': 'Changelog\r\n'
+                 '\r\n'
+                 '1. Fixed H.265 video scaling\r\n'
+                 '2. Fixed display position settings\r\n'
+                 '3. Fixed green screen issue on 4k-120Hz mode\r\n'
+                 '4. Fixed forced HLG mode\r\n'
+                 '5. Fixed forced SDR mode\r\n'
+                 '6. Fixed HDR issues on some TVs\r\n'
+                 '7. DV mode is now used only for DV content (AM8, SK1, '
+                 'SK4)\r\n'
+                 '8. HDR content now uses 422-12bit color mode\r\n'
+                 '9. Fixed shutdown and wake-up issues\r\n'
+                 '10. Improved firmware update process\r\n'
+                 '11. Added Internet availability check setting\r\n'
+                 '12. Fixed USearch work\r\n'
+                 '13. Fixed video stutters if enable AI PQ\r\n'
+                 '14. Fixed developer settings crash\r\n'
+                 '15. Added application autorun feature\r\n'
+                 '16. Updated some applications\r\n'
+                 '17. Allowed old applications installation\r\n'
+                 '18. Many other changes to improve system stability',
+  'file': None,
+  'file_size': '1.06Gb',
+  'id': 314,
+  'link': 'https://mega.nz/file/GpVn1AQB#-5KGBKspVxVRq-RMDbtE-cbn2DX_x2jJ-RNfEml68VE',
+  'product_id': '95',
+  'relProducts': [],
+  'stick': '7z',
+  'title': 'Android 14 Ugoos SK4 Firmware v. 2.0.4',
+  'updated_at': '2025-12-03 15:25:06'}]

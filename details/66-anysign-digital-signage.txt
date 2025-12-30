@@ -143,13 +143,26 @@
                    'updated_at': '2019-02-12 10:16:05',
                    'url': 'anysign-digital-signage'},
                   {'category_id': 6,
-                   'created_at': '2019-04-17 02:16:36',
-                   'description': '<p><img alt="" '
-                                  'src="https://ugoos.com/images/uploads/OEM_s.jpg" '
+                   'created_at': '2025-07-04 08:29:43',
+                   'description': '<p><img alt="Creating digital solutions for '
+                                  'you personal or business tasks" '
+                                  'src="https://ugoos.com/images/uploads/OEM_01.png" '
+                                  '/></p>\r\n'
+                                  '\r\n'
+                                  '<p><img alt="We will prepare custom design '
+                                  'for your OEM Order" '
+                                  'src="https://ugoos.com/images/uploads/OEM_02.png" '
+                                  '/><img alt="OTA updates also available for '
+                                  'your OEM orders" '
+                                  'src="https://ugoos.com/images/uploads/OEM_03.png" '
+                                  '/><img alt="" '
+                                  'src="https://ugoos.com/images/uploads/OEM_04.png" '
+                                  '/><img alt="" '
+                                  'src="https://ugoos.com/images/uploads/OEM_05.png" '
                                   '/></p>',
                    'id': 65,
-                   'image': 'images/uploads/57f19565620c9a98dc5d838bc995bb7e.jpg',
-                   'images': [],
+                   'image': 'images/uploads/47b58e418ff07bb44def744721a1abe4.jpg',
+                   'images': ['images/uploads/fa1d1b3e0104480077f37994ee83ab7c.png'],
                    'manufacturer_id': None,
                    'pivot': {'downloads_files_id': 3, 'product_id': 65},
                    'price': '0.0000',
@@ -172,7 +185,7 @@
                    'specification': '',
                    'status': 1,
                    'title': 'OEM Solutions',
-                   'updated_at': '2019-04-17 02:16:36',
+                   'updated_at': '2025-07-04 08:29:43',
                    'url': 'oem-solutions'}],
   'stick': 'apk',
   'title': 'Remote control application',

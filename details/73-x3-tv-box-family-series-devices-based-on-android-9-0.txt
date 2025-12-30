@@ -1,5 +1,5 @@
 [{'category_id': '1',
-  'created_at': '2022-10-14 11:10:24',
+  'created_at': '2022-10-14 11:12:12',
   'description': '1. Lots of video codec fixes\r\n'
                  '2. Removed video codec fixes setting\r\n'
                  '3. HDMI CEC improvements\r\n'
@@ -40,30 +40,30 @@
                  '25. Many other changes for system stability',
   'file': None,
   'file_size': '615 MB',
-  'id': 264,
-  'link': 'https://mega.nz/folder/DpUTFKIa#0mC0ndKsZm9KdYgkr_KcNA',
-  'product_id': '71',
+  'id': 265,
+  'link': 'https://mega.nz/folder/yoEjHbiY#J7wSi-YHpWzd0AdgQRZ2Ig',
+  'product_id': '73',
   'relProducts': [],
   'stick': '7z',
-  'title': 'Android 9 firmware V0.5.4 for X2 Family',
-  'updated_at': '2022-10-14 11:10:24'},
+  'title': 'Android 9 firmware V0.5.4 for X3 Family',
+  'updated_at': '2022-10-14 11:12:12'},
  {'category_id': '1',
-  'created_at': '2022-08-17 08:38:55',
+  'created_at': '2022-08-17 08:40:15',
   'description': '1. Fixed Magisk update process\r\n'
                  '2. Fixed option of disabling auto power-on for new '
                  'devices\r\n'
                  '3. Few system bug fixes',
   'file': None,
-  'file_size': '615 MB',
-  'id': 262,
-  'link': 'https://mega.nz/folder/WhUnBAza#oBW0VAyDf3xgEcL1a-FNQA',
-  'product_id': '71',
+  'file_size': '699.4Mb',
+  'id': 263,
+  'link': 'https://mega.nz/folder/DoUnlCLJ#K_PRUXIwklJoFC0bgmkWjg',
+  'product_id': '73',
   'relProducts': [],
   'stick': '7z',
-  'title': 'Android 9 firmware V0.4.2 for X2 Family',
-  'updated_at': '2022-08-17 08:38:55'},
+  'title': 'Android 9 firmware V0.4.2 for X3 Family',
+  'updated_at': '2022-08-17 08:40:15'},
  {'category_id': '1',
-  'created_at': '2021-06-02 12:54:16',
+  'created_at': '2021-06-02 10:32:46',
   'description': 'Changelog:\r\n'
                  '\r\n'
                  '1. Updated Magisk\r\n'
@@ -78,44 +78,15 @@
                  '7. Other system stability improvements',
   'file': None,
   'file_size': '641.5 Mb',
-  'id': 237,
-  'link': 'https://mega.nz/folder/Hp1WkKBB#15YAZ6tCGgkS1lIPNoe_4Q',
-  'product_id': '71',
+  'id': 238,
+  'link': 'https://mega.nz/folder/blkwTCyK#Nr7QnxL-3MTg5V2ik1Maog',
+  'product_id': '73',
   'relProducts': [],
   'stick': 'rar',
-  'title': 'Android 9 firmware V0.4.1 for X2 Family',
-  'updated_at': '2021-06-02 12:54:16'},
+  'title': 'Android 9 firmware V0.0.4.1 for X3 Family',
+  'updated_at': '2021-06-02 10:32:46'},
  {'category_id': '1',
-  'created_at': '2021-01-17 07:55:10',
-  'description': 'Changelog 4.01.2021:\r\n'
-                 '\r\n'
-                 '1. Fixed wake on LAN function\r\n'
-                 '2. Fixed CoreELEC Ethernet connection problem\r\n'
-                 '3. Fixed false double tap for some unstable remote '
-                 'controllers\r\n'
-                 '4. Fixed return of hdmi sound parameters after listening to '
-                 'multi-channel PCM audio\r\n'
-                 '5. Fixed long freezes of GeForce NOW stream\r\n'
-                 '6. Added ability reduce display time of mouse pointer\r\n'
-                 '7. Added right mouse button setting\r\n'
-                 '8. Moved F2-5 key events to UG1-4 for Remote Control Buttons '
-                 'application. Buttons remap will be required\r\n'
-                 '9. Removed calling emoji keyboard by alt buttons\r\n'
-                 '10. Fixed root state in status bar with Magisk option\r\n'
-                 '11. Added Remote Control Buttons application to settings\r\n'
-                 '12. Changed battery level\r\n'
-                 '13. Other system changes',
-  'file': None,
-  'file_size': '140 mb',
-  'id': 234,
-  'link': 'https://mega.nz/file/KssEASRL#vS94LgdgSQ7_zLtD_cwMU2YOdLvsYg5jD8H2vsri_pM',
-  'product_id': '71',
-  'relProducts': [],
-  'stick': 'rar',
-  'title': 'Dualboot Increment OTA File V0.3.9.1 for X2 Family',
-  'updated_at': '2021-01-17 07:55:10'},
- {'category_id': '1',
-  'created_at': '2021-01-17 07:53:39',
+  'created_at': '2021-01-17 07:57:46',
   'description': 'Changelog 4.01.2021:\r\n'
                  '\r\n'
                  '1. Fixed wake on LAN function\r\n'
@@ -136,15 +107,44 @@
                  '13. Other system changes',
   'file': None,
   'file_size': '112 mb',
-  'id': 233,
-  'link': 'https://mega.nz/file/vx0SBaKQ#JA1EwnVH3Vjoh22H5InWQp6bCZ0gbp7v1NYuiXbRjCw',
-  'product_id': '71',
+  'id': 236,
+  'link': 'https://mega.nz/file/fx0gyQ4A#ybf_5HZVE2zCEUtxpWfvMgPtB1joU9BmiycFu-53rgM',
+  'product_id': '73',
   'relProducts': [],
   'stick': 'rar',
-  'title': 'Increment OTA File V0.3.9.1 for X2 Family',
-  'updated_at': '2021-01-17 07:53:39'},
+  'title': 'Increment OTA File V0.3.9.1 for X3 Family',
+  'updated_at': '2021-01-17 07:57:46'},
  {'category_id': '1',
-  'created_at': '2021-01-17 07:22:12',
+  'created_at': '2021-01-17 07:56:27',
+  'description': 'Changelog 4.01.2021:\r\n'
+                 '\r\n'
+                 '1. Fixed wake on LAN function\r\n'
+                 '2. Fixed CoreELEC Ethernet connection problem\r\n'
+                 '3. Fixed false double tap for some unstable remote '
+                 'controllers\r\n'
+                 '4. Fixed return of hdmi sound parameters after listening to '
+                 'multi-channel PCM audio\r\n'
+                 '5. Fixed long freezes of GeForce NOW stream\r\n'
+                 '6. Added ability reduce display time of mouse pointer\r\n'
+                 '7. Added right mouse button setting\r\n'
+                 '8. Moved F2-5 key events to UG1-4 for Remote Control Buttons '
+                 'application. Buttons remap will be required\r\n'
+                 '9. Removed calling emoji keyboard by alt buttons\r\n'
+                 '10. Fixed root state in status bar with Magisk option\r\n'
+                 '11. Added Remote Control Buttons application to settings\r\n'
+                 '12. Changed battery level\r\n'
+                 '13. Other system changes',
+  'file': None,
+  'file_size': '140 mb',
+  'id': 235,
+  'link': 'https://mega.nz/file/Gk0AmABQ#QKqYoiEO_D7l-ZNOm2RfDNTKx5knRXpPjSC6pPLRxe4',
+  'product_id': '73',
+  'relProducts': [],
+  'stick': 'rar',
+  'title': 'Dualboot Increment OTA File V0.3.9.1 for X3 Family',
+  'updated_at': '2021-01-17 07:56:27'},
+ {'category_id': '1',
+  'created_at': '2021-01-17 07:20:52',
   'description': 'Changelog:\r\n'
                  '\r\n'
                  '1. Fixed wake on LAN function\r\n'
@@ -165,15 +165,15 @@
                  '13. Other system changes',
   'file': None,
   'file_size': '411 Mb',
-  'id': 229,
-  'link': 'https://mega.nz/folder/a9tETaDb#w4pSqq2oCP11j4tNRkLZmg',
-  'product_id': '71',
+  'id': 228,
+  'link': 'https://mega.nz/folder/7ltGiYQD#yEFmWNogOopKrlhYD62vuA',
+  'product_id': '73',
   'relProducts': [],
   'stick': 'rar',
-  'title': 'Android 9 firmware V0.3.9.1 for X2 Family',
-  'updated_at': '2021-01-17 07:22:12'},
+  'title': 'Android 9 firmware V0.3.9.1 for X3 Family',
+  'updated_at': '2021-01-17 07:20:52'},
  {'category_id': '1',
-  'created_at': '2020-09-03 15:01:52',
+  'created_at': '2020-09-03 15:09:00',
   'description': 'Changelog 3.09.2020\r\n'
                  '\r\n'
                  '1. Added setting to enable pass-through sound for hardware '
@@ -197,32 +197,32 @@
                  'portrait" mode',
   'file': None,
   'file_size': '568 Mb',
-  'id': 226,
-  'link': 'https://mega.nz/folder/DkdxzajL#u6tbIhtJ6R-qbPTe7Yiwow',
-  'product_id': '71',
+  'id': 227,
+  'link': 'https://mega.nz/folder/ao1jhJQJ#_q0sBX4Fi0mjjx55OUm8Pg',
+  'product_id': '73',
   'relProducts': [],
   'stick': 'rar',
-  'title': 'Android 9 firmware V0.3.7 for X2 Family + Full OTA',
-  'updated_at': '2020-09-03 15:01:52'},
+  'title': 'Android 9 firmware V0.3.7 for X3 Family + Full OTA',
+  'updated_at': '2020-09-03 15:09:00'},
  {'category_id': '1',
-  'created_at': '2020-07-25 07:00:39',
+  'created_at': '2020-07-25 07:20:46',
   'description': '1. Fixed MX Player HW audio/video freezes\r\n'
-                 '  2. Added option of more accurate FPS calculation for Media '
+                 '2. Added option of more accurate FPS calculation for Media '
                  'Codec for system automatic frame rate function\r\n'
-                 '  3. Changed background to more lighter for notification '
+                 '3. Changed background to more lighter for notification '
                  'panel\r\n'
-                 '  4. Changed theme of choose application dialog',
+                 '4. Changed theme of choose application dialog',
   'file': None,
   'file_size': '568 Mb',
-  'id': 223,
-  'link': 'https://mega.nz/folder/m4kVyDqK#AsQ2bf3XjYx3ULjer-_T5w',
-  'product_id': '71',
+  'id': 224,
+  'link': 'https://mega.nz/folder/fhV2gQQA#Gn-FKEdoIvhEAET32m875Q',
+  'product_id': '73',
   'relProducts': [],
   'stick': 'rar',
-  'title': 'Android 9 firmware V0.3.6 for X2 Family + Full OTA',
-  'updated_at': '2020-07-25 07:00:39'},
+  'title': 'Android 9 firmware V0.3.6 for X3 Family + Full OTA',
+  'updated_at': '2020-07-25 07:20:46'},
  {'category_id': '1',
-  'created_at': '2020-06-14 10:59:51',
+  'created_at': '2020-06-14 10:57:40',
   'description': '1. Fixed work of multichannel high resolution PCM audio\r\n'
                  '2. Added saving display mode after turning off/on the TV '
                  'with AV receiver\r\n'
@@ -256,16 +256,16 @@
                  '  1. Increase CoreELEC partition size to 3GB\r\n'
                  '  2. Replaced CoreELEC night build to stable 9.2.2',
   'file': None,
-  'file_size': '563 mb',
-  'id': 220,
-  'link': 'https://mega.nz/folder/r81mhKaC#Qb-oEOQfyqy-CTTHEWspJw',
-  'product_id': '71',
+  'file_size': '756 mb',
+  'id': 219,
+  'link': 'https://mega.nz/folder/Do0DTbCR#9Y2PgkbbpRf6-KZ7tddslw',
+  'product_id': '73',
   'relProducts': [],
   'stick': 'rar',
-  'title': 'Android 9 firmware V0.3.3 for X2 Family + Full OTA',
-  'updated_at': '2020-06-14 10:59:51'},
+  'title': 'Android 9 firmware V0.3.3 for X3 Family + Full OTA',
+  'updated_at': '2020-06-14 10:57:40'},
  {'category_id': '1',
-  'created_at': '2020-05-08 08:20:35',
+  'created_at': '2020-05-08 08:22:00',
   'description': '1. Fixed multichannel PCM audio problem. Added automatic '
                  'detection\r\n'
                  '2. Fixed SPDIF work for 192 kHz 32 bit audio (AM6, X2)\r\n'
@@ -297,65 +297,50 @@
                  '20. Video freeze fixed for mpeg-4 videos.',
   'file': None,
   'file_size': '468 Mb',
-  'id': 217,
-  'link': 'https://mega.nz/folder/Co1RzCaZ#AWywVf0wej8PL-a3tOXbBA',
-  'product_id': '71',
+  'id': 218,
+  'link': 'https://mega.nz/folder/mo0CTKrY#bVR572bowTngO8Fur5t5sQ',
+  'product_id': '73',
   'relProducts': [],
   'stick': 'rar',
-  'title': 'Android 9 firmware V0.3.2 for X2 Family + Full OTA',
-  'updated_at': '2020-05-08 08:20:35'},
+  'title': 'Android 9 firmware V0.3.2 for X3 Family + Full OTA',
+  'updated_at': '2020-05-08 08:22:00'},
  {'category_id': '1',
-  'created_at': '2020-02-14 14:28:43',
-  'description': 'Android 9 firmware V0.2.8 for X2 Family + Full OTA\r\n'
+  'created_at': '2020-02-14 14:28:21',
+  'description': 'Android 9 firmware V0.2.8 for Cube X3 Family + Full OTA\r\n'
                  '\r\n'
                  'Full changelog 12.02.2020\r\n'
                  '\r\n'
                  '1. Fixed audio clicks in AV port\r\n'
-                 '\r\n'
                  '2. Added mouse settings to TvSettings\r\n'
-                 '\r\n'
                  '3. Added experimental ability use mouse as touch input\r\n'
-                 '\r\n'
                  '4. Video Picture Settings. Disabled system automatic frame '
                  'rate function\r\n'
-                 '\r\n'
                  '5. Video Picture Settings. Fixed bugs of hue setting\r\n'
-                 '\r\n'
                  '6. Video Picture Settings. Removed sharpness setting\r\n'
-                 '\r\n'
                  '7. Video Picture Settings. Added setting for disabling all '
                  'video effects and optimizations\r\n'
-                 '\r\n'
                  '8. Fixed some buttons in Chrome\r\n'
-                 '\r\n'
                  '9. SambaServer. Changed names of storages\r\n'
-                 '\r\n'
                  '10. Fixed crash of Bluetooth settings when device '
                  'connected\r\n'
-                 '\r\n'
                  '11. Added support ext4, ntfs, exfat for SD cards in recovery '
                  'mode\r\n'
-                 '\r\n'
                  '12. Added support ext4 for usb storages in recovery mode\r\n'
-                 '\r\n'
                  '13. Added support of multiple storages (partitions) in '
                  'recovery mode if use System Update application\r\n'
-                 '\r\n'
                  '14. Fixed automatic update error with expanded storage\r\n'
-                 '\r\n'
                  '15. Fixed some crashes of System Update application\r\n'
-                 '\r\n'
                  '16. Fixed update from expanded storage if use System Update '
                  'application',
   'file': None,
   'file_size': '468 Mb',
-  'id': 213,
-  'link': 'https://mega.nz/#F!L1lQjKCb!xd7-q-LU8ekcXf8hIkyxiQ',
-  'product_id': '71',
+  'id': 214,
+  'link': 'https://mega.nz/#F!qpF33SaY!rxst4HbSSAwDFg58KmX8Mw',
+  'product_id': '73',
   'relProducts': [],
   'stick': 'rar',
-  'title': 'Android 9 firmware V0.2.8 for X2 Family + Full OTA',
-  'updated_at': '2020-02-14 14:28:43'},
+  'title': 'Android 9 firmware V0.2.8 for X3 Family + Full OTA',
+  'updated_at': '2020-02-14 14:28:21'},
  {'category_id': '1',
   'created_at': '2019-11-20 13:47:32',
   'description': 'This guide will help you to reflash or update your device '
@@ -366,7 +351,7 @@
   'link': 'https://mega.nz/#!D8l22I5B!Gn2XshPIYwlYW0NEJK7W_AyY-oeajTk5Q7oOHVgo1q4',
   'product_id': '71',
   'relProducts': [{'category_id': 1,
-                   'created_at': '2022-10-28 08:07:36',
+                   'created_at': '2023-02-01 12:29:44',
                    'description': '<p>X3 TV Boxes&nbsp;based on new generation '
                                   'CPU S905X3, which based on Cortex-A55 '
                                   'instead of Cortex-A53 in S905X2. New CPU '
@@ -728,14 +713,6 @@
                                     'colspan="2">Other Parameters:</td>\r\n'
                                     '\t\t</tr>\r\n'
                                     '\t\t<tr>\r\n'
-                                    '\t\t\t<td>Operation Temperature</td>\r\n'
-                                    '\t\t\t<td>0~60℃</td>\r\n'
-                                    '\t\t</tr>\r\n'
-                                    '\t\t<tr>\r\n'
-                                    '\t\t\t<td>Storage Temperature</td>\r\n'
-                                    '\t\t\t<td>-10~60℃</td>\r\n'
-                                    '\t\t</tr>\r\n'
-                                    '\t\t<tr>\r\n'
                                     '\t\t\t<td>Humidity Environment</td>\r\n'
                                     '\t\t\t<td>5%-90%(No condensation）</td>\r\n'
                                     '\t\t</tr>\r\n'
@@ -770,13 +747,13 @@
                    'status': 1,
                    'title': 'X3 TV Box Family Series Devices based on Android '
                             '9.0',
-                   'updated_at': '2022-10-28 08:07:36',
+                   'updated_at': '2023-02-01 12:29:44',
                    'url': 'x3-tv-box-family-series-devices-based-on-android-9-0'}],
   'stick': 'pdf',
   'title': 'X2, X3 TV Boxes Reflashing Guide and Update via OTA',
   'updated_at': '2019-11-20 13:47:32'},
  {'category_id': '1',
-  'created_at': '2019-11-18 20:50:31',
+  'created_at': '2019-11-18 20:49:56',
   'description': '1. Fixed CEC wake up\r\n'
                  '  2. Added CEC work with function "disable auto power-on"\r\n'
                  '  3. Improvements of system automatic frame rate function '
@@ -799,68 +776,11 @@
                  '  13. Added custom ir power key setting\r\n'
                  '  14. Changes in deep color setting',
   'file': None,
-  'file_size': '743000',
-  'id': 210,
-  'link': 'https://mega.nz/#F!r4MHVQwT!Tx_o7GrJp5cozqfH7hUhww',
-  'product_id': '71',
+  'file_size': '468 Mb',
+  'id': 211,
+  'link': 'https://mega.nz/#F!WkVVAYpQ!e53feb8grJYGE1jPUqA5Wg',
+  'product_id': '73',
   'relProducts': [],
   'stick': 'rar',
-  'title': 'Android 9 firmware V0.2.3 for Cube X2 Family + Full OTA',
-  'updated_at': '2019-11-18 20:50:31'},
- {'category_id': '1',
-  'created_at': '2019-10-14 07:51:44',
-  'description': 'Product instruction shows the main functions of a TV Box',
-  'file': None,
-  'file_size': '11',
-  'id': 206,
-  'link': 'https://mega.nz/#!fl8FVKID!h8m_Rp5olMyVIWcSaUCna_OBSS7F3nR6c_4pBfp_bbk',
-  'product_id': '71',
-  'relProducts': [],
-  'stick': 'pdf',
-  'title': 'X2 Product user manual',
-  'updated_at': '2019-10-14 07:51:44'},
- {'category_id': '1',
-  'created_at': '2019-10-25 07:32:44',
-  'description': 'Changelog v 0.2.1\r\n'
-                 ' \r\n'
-                 ' 1. Fixed video rotation\r\n'
-                 '  2. Fixed video scaling higher than 100%\r\n'
-                 '  3. Added write permissions to external storages for '
-                 'applications\r\n'
-                 '  4. Fixed button loss for input devices settings\r\n'
-                 '  5. Added buttons MOVE_END, MOVE_HOME, F2-F5 for input '
-                 'devices settings\r\n'
-                 '  6. Removed camera event when double press the power '
-                 'button\r\n'
-                 '  7. Added default keylayout for g20s air mouse\r\n'
-                 '  8. Fixed air mouse microphone',
-  'file': None,
-  'file_size': '1130',
-  'id': 204,
-  'link': 'https://mega.nz/#F!PodkFSCD!IBMpf2dOCkvyeZVp-R-Rbw',
-  'product_id': '71',
-  'relProducts': [],
-  'stick': 'rar',
-  'title': 'X2 Cube/Pro  firmware V0.2.1 + Full OTA Pack',
-  'updated_at': '2019-10-25 07:32:44'},
- {'category_id': '2',
-  'created_at': '2019-10-25 07:28:28',
-  'description': 'X2 - 0.1.1\r\n'
-                 '\r\n'
-                 '  1. Added ability to set wallpaper to fit the screen\r\n'
-                 '  2. Added ability lock FullHD interface for applications '
-                 'that change display mode to 4k (Device Preferences -> '
-                 'Display -> Screen resolution)\r\n'
-                 '  3. Fixed S/PDIF passthrough work\r\n'
-                 '  4. Added power settings, silent boot settings (Device '
-                 'Preferences -> Power)\r\n'
-                 '  5. Other minor changes',
-  'file': None,
-  'file_size': '1115',
-  'id': 200,
-  'link': 'https://mega.nz/#F!ihsxxSZJ!k_hjrNxScZaikRrmKj3GDw',
-  'product_id': '71',
-  'relProducts': [],
-  'stick': 'rar',
-  'title': 'X2 Cube/Pro firmware V0.1.1',
-  'updated_at': '2019-10-25 07:28:28'}]
+  'title': 'Android 9 firmware V0.2.3 for Cube X3 Family + Full OTA',
+  'updated_at': '2019-11-18 20:49:56'}]
