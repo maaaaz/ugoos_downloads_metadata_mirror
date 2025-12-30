@@ -12,12 +12,13 @@ import csv
 
 import code
 import pprint
+import slugify
 
 from os import path
 from lxml.html.soupparser import fromstring as fromstringhtml
 
 # Script version
-VERSION = '1.0'
+VERSION = '1.1'
 
 # Options definition
 parser = argparse.ArgumentParser(description="version: " + VERSION)
@@ -49,8 +50,8 @@ def scrape(product, output_dir):
         print(f'product_id:{product_id} | "{product_name}" | {len(data_scraped)} entries')
         
         data_scraped.sort(key=sort_results_by_index_desc, reverse=True)
-        
-        output_file = os.path.abspath(os.path.join(output_dir, "%s_%s.txt"%(product_id, product_name)))
+        output_file_name = slugify.slugify("%s_%s.txt"%(product_id, product_name))
+        output_file = os.path.abspath(os.path.join(output_dir, output_file_name))
         with open(output_file, mode='w', encoding='utf-8') as fd_output:
             pprint.pprint(data_scraped, stream=fd_output)
         
